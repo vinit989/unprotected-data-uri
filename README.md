@@ -1,0 +1,2 @@
+# unprotected-data-uri
+Testing
